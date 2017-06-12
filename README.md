@@ -29,11 +29,12 @@ Surround your `<select>` with a div:
   </select>
 </div>
 ```
-Include JQuery in the `<head>` tag:
+Include JQuery and this plugin in the `<head>` tag:
 
 ```
 <head>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="/path-to-plugin/jquery-ul-select.js"></script>
 </head>
 ```
 And call the function for the desired `<div>`:
