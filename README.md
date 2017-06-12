@@ -1,19 +1,17 @@
 # JQuery ul select plugin
 This is a plugin to replace the HTML `<select>` element for styling purposes.
 
-<b>Features:</b>
+## Features:
 
---| Multiple sizes: small (same size as normal HTML `<select>`), medium and large
+* Multiple sizes: small (same size as normal HTML `<select>`), medium and large
+* Stylable: Each `<select>` is now fully customisable!
 
---| Stylable: Each `<select>` is now fully customisable!
+## Coming soon:
 
-<b>Coming soon:</b>
+* `<optgroup>` support
+* Multiple select option
 
---| `<optgroup>` support
-
---| Multiple select option
-
-<b>To use:</b>
+## To use:
 
 Surround your `<select>` with a div:
 
