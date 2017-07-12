@@ -4,7 +4,7 @@ This is a plugin to replace the HTML `<select>` element for styling purposes.
 ## Features:
 
 * Multiple sizes: small (same size as normal HTML `<select>`), medium and large
-* Stylable: Each `<select>` is now fully customisable!
+* Stylable: Each `<select>` is now customisable!
 
 ## Coming soon:
 
