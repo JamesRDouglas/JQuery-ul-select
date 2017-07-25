@@ -57,4 +57,4 @@ Or this:
 
 Depending on the size required.
 
-**Warning!** Avoid calling the `.ulSelect()` function more than once.
+**Warning!** Avoid calling the `.ulSelect()` function more than once on the same element.
